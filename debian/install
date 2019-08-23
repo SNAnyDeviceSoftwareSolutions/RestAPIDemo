@@ -1,0 +1,3 @@
+.build/							usr/src/RestAPIDemo
+terraform/scripts/install.sh	usr/src/RestAPIDemo
+terraform/scripts/start.sh		usr/src/RestAPIDemo
